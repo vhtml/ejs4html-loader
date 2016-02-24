@@ -1,4 +1,4 @@
-# ejs4html-loader for webpack html-loader extension.
+# ejs4html-loader for webpack.
 
 EJS loader for [webpack](http://webpack.github.io/) [html-loader]. Uses [ejs](https://github.com/mde/ejs) function to render templates.
 
