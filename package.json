@@ -1,0 +1,25 @@
+{
+  "name": "ejs4html-loader",
+  "version": "0.2.1",
+  "description": "EJS loader for webpack html-loader extension.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhtml/ejs4html-loader.git"
+  },
+  "keywords": [
+    "ejs",
+    "webapck",
+    "loader"
+  ],
+  "author": "vhtml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhtml/ejs4html-loader/issues"
+  },
+  "homepage": "https://github.com/vhtml/ejs4html-loader#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "loader-utils": "^0.2.12"
+  }
+}

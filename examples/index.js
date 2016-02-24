@@ -1,0 +1,1 @@
+document.body.appendChild(document.createTextNode('this is appended by js.'));
